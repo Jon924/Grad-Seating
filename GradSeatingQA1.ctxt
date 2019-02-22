@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GradSeatingQA1
+comment0.text=\n\ Seat\ graduating\ students\ in\ rows\ x\ column\ of\ chairs,\ snaking\ direction.\n\ \n\ @author\ Anh\ Nguyen\ \n\ @version\ v.1\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
